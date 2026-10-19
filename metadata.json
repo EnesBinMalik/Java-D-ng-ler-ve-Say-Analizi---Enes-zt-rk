@@ -1,0 +1,6 @@
+{
+  "name": "Java Döngüler ve Sayı Analizi - Enes Öztürk",
+  "description": "Java döngüleri ile tek sayı girilene kadar 4'ün katlarını ve negatif girilene kadar tek sayıları toplayan interaktif simülatör ve kaynak kodları. Enes Öztürk imzasıyla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
